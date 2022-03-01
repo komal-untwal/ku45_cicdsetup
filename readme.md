@@ -52,4 +52,4 @@ app/dyno.
 * https://hackersandslackers.com/flask-application-factory/
 * https://suryasankar.medium.com/a-basic-app-factory-pattern-for-production-ready-websites-using-flask-and-sqlalchemy-dbb891cdf69f
 
-test
+* test *
